@@ -1,0 +1,31 @@
+{
+  "name": "성분표 스캐너 — 첨가물 경계 목록",
+  "short_name": "성분표 스캐너",
+  "description": "과자·가공식품 성분표를 찍으면 경계 첨가물 31종을 찾아 알려주는 앱",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#FBF7F4",
+  "theme_color": "#FBF7F4",
+  "lang": "ko",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
